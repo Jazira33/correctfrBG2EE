@@ -1,5 +1,5 @@
 BACKUP ~correctfrbg2ee/backup~
-SUPPORT ~Lefreut et Jazira (https://www.baldursgateworld.fr)~
+SUPPORT ~Lefreut, Jazira, Rivvers et Mera (https://www.baldursgateworld.fr)~
 VERSION ~0.23~
 README ~correctfrbg2ee/readme/readme-correctfrbg2ee.html~
 
@@ -819,6 +819,10 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate II : Enha
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
+	// Ajout de la description du sort divin et druidique Vision lointaine
+	COPY_EXISTING ~SPPR415.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @300
+	BUT_ONLY_IF_IT_CHANGES
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
