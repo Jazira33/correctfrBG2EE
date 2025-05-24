@@ -859,6 +859,18 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate II : Enha
 		SAY NAME2 @279
 	BUT_ONLY_IF_IT_CHANGES
 
+	// Correction du nom pour différencier la créature convoquée par le sort profane Conjuration d'élémentaire de terre mineur (Élémentaire de terre mineur)
+	COPY_EXISTING ~ELEARSU1.CRE~ ~override~
+		WRITE_LONG 0x08 2850
+		WRITE_LONG 0x0c 2851
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom pour différencier la créature convoquée par le sort profane Conjuration d'élémentaire de feu mineur (Élémentaire de feu mineur)
+	COPY_EXISTING ~ELFIRSU1.CRE~ ~override~
+		WRITE_LONG 0x08 2878
+		WRITE_LONG 0x0c 2879
+	BUT_ONLY_IF_IT_CHANGES
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\

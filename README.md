@@ -236,8 +236,10 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG2:EE.
 	- Dragomir le Rouge (ohhdrago.CRE).
 	- Goxxa l'alhoon (ohhgoxxa.CRE).
 	- Poulet (GEMCH01.CRE, GEMCH02.CRE).
+	- Élémentaire de terre mineur (ELEARSU1.CRE).
 	- Élémentaire de terre majeur (ELEARPR2.CRE, ELEARSU3.CRE).
 	- Élémentaire de terre ancien (ELEARPR3.CRE, ELEARSU4.CRE).
+	- Élémentaire de feu mineur (ELFIRSU1.CRE).
 	- Élémentaire de feu majeur (ELFIRPR2.CRE, ELFIRSU3.CRE).
 	- Élémentaire de feu ancien (ELFIRPR3.CRE, ELFIRSU4.CRE).
 	</pre>
