@@ -884,6 +884,11 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate II : Enha
 		SAY UNIDENTIFIED_DESC @300
 	BUT_ONLY_IF_IT_CHANGES
 
+	// Ajout de la description du sort druidique Chaîne d'éclairs
+	COPY_EXISTING ~SPDR601.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @301
+	BUT_ONLY_IF_IT_CHANGES
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\

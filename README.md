@@ -248,6 +248,7 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG2:EE.
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
 	- Vision lointaine (SPPR415.SPL).
+	- Chaîne d'éclairs (SPDR601.SPL).
 	</pre>
 	</details>
 
