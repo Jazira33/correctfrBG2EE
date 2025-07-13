@@ -8,7 +8,7 @@
 
 //SPPR415.SPL
 @300 = ~Vision lointaine
-(Divination)
+(Divination, Non-offensif)
 
 Niveau : 4
 Sphère : divination
@@ -22,7 +22,7 @@ Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zo
 
 //SPDR601.SPL
 @301 = ~Chaîne d'éclairs
-(Invocation)
+(Invocation, Dégât offensif)
 
 Niveau : 6
 Sphère : climat
