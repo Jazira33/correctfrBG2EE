@@ -22,7 +22,7 @@ Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zo
 
 //SPDR601.SPL
 @301 = ~Chaîne d'éclairs
-(Invocation, Dégât offensif)
+(Invocation, Dégâts offensifs)
 
 Niveau : 6
 Sphère : climat
