@@ -244,11 +244,12 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG2:EE.
 	- Élémentaire de feu ancien (ELFIRPR3.CRE, ELFIRSU4.CRE).
 	</pre>
 	</details>
-- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (descriptions, etc.) :
+- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (noms, descriptions, etc.) :
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
 	- Vision lointaine (SPPR415.SPL).
 	- Chaîne d'éclairs (SPDR601.SPL).
+	- Nuage de gaz toxique (SPIN642.SPL).
 	</pre>
 	</details>
 

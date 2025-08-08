@@ -889,6 +889,11 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate II : Enha
 		SAY UNIDENTIFIED_DESC @301
 	BUT_ONLY_IF_IT_CHANGES
 
+	// Ajout du nom de la capacité Nuage de gaz toxique
+	COPY_EXISTING ~SPIN642.SPL~ ~override~
+		SAY NAME1 @302
+	BUT_ONLY_IF_IT_CHANGES
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
