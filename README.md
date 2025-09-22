@@ -237,11 +237,12 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG2:EE.
 	- Goxxa l'alhoon (ohhgoxxa.CRE).
 	- Poulet (GEMCH01.CRE, GEMCH02.CRE).
 	- Élémentaire de terre mineur (ELEARSU1.CRE).
-	- Élémentaire de terre majeur (ELEARPR2.CRE, ELEARSU3.CRE).
+	- Élémentaire de terre majeur (ELEARPR2.CRE, ELEARSU3.CRE, SWAEAR01.CRE).
 	- Élémentaire de terre ancien (ELEARPR3.CRE, ELEARSU4.CRE).
 	- Élémentaire de feu mineur (ELFIRSU1.CRE).
-	- Élémentaire de feu majeur (ELFIRPR2.CRE, ELFIRSU3.CRE).
+	- Élémentaire de feu majeur (ELFIRPR2.CRE, ELFIRSU3.CRE, SWAFIR01.CRE).
 	- Élémentaire de feu ancien (ELFIRPR3.CRE, ELFIRSU4.CRE).
+	- Élémentaire d'air majeur (SWAAIR01.CRE).
 	</pre>
 	</details>
 - Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (noms, descriptions, etc.) :
