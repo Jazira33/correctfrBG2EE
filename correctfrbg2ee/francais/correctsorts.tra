@@ -34,5 +34,26 @@ Jet de sauvegarde : sorts (1/2)
 
 Lorsque le lanceur incante Chaîne d'éclairs, des arcs électriques jaillissent du bout de ses doigts, bondissant lentement mais sûrement vers la créature ciblée à une porté maximale de 12 mètres. Toutes les créatures ennemies présentes dans un rayon de 5 mètres autour de la créature ciblée subissent 1d6 points de dégâts électriques par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 10d6 points de dégâts électriques au niveau 20. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis. Ainsi, un lanceur de niveau 12 infligera 6d6 points de dégâts électriques, ou 3d6 points de dégâts électriques si un jet de sauvegarde contre les sorts est réussi. Les dégâts ainsi causés contournent les éventuelles répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir. La résistance à la magie des créatures affectées ne rentre pas en ligne de compte.~
 
+//SPCL612.SPL
+@302 = ~Métamorphose en loup
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Force : 18
+Dextérité : 17
+
+Classe d'armure de base : 6
+Attaques par round : 2
+Dégâts : 1d8 (perforant), peut atteindre les créatures comme une arme de niveau d'enchantement +1
+
+Capacités spéciales :
+- Résistance au froid : 100 %
+- Résistance au froid magique : 100 %
+- Résistance à l'électricité : 50 %~ //Différence BG1EE = Loup 1 attaque par round, BG2EE = Loup 2 attaques par round
+
 //SPIN642.SPL
-@302 = ~Nuage de gaz toxique~
+@303 = ~Nuage de gaz toxique~
