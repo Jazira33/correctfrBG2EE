@@ -54,7 +54,9 @@ Dégâts : 1d8 (perforant), peut atteindre les créatures comme une arme de niv
 Capacités spéciales :
 - Résistance au froid : 100 %
 - Résistance au froid magique : 100 %
-- Résistance à l'électricité : 50 %~
+- Résistance à l'électricité : 50 %
+
+Cette capacité ne dispose d'aucune composante verbale et peut être jetée même si le lanceur est victime d'un effet de silence.~
 
 //SPIN642.SPL
 @303 = ~Nuage de gaz toxique~
