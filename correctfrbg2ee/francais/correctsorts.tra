@@ -18,7 +18,7 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zone inexplorée de la carte, similaire à son champ de vision. Le lanceur peut alors surveiller cette zone, voir les créatures et leurs mouvements ainsi que les fortifications qui s'y trouvent. À la fin de l'incantation du sort, interagissez sur la zone de la carte que vous désirez voir. Les effets de ce sort durent 3 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20, et ne peuvent pas être dissipés par une source extérieure.~
+Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zone inexplorée de la carte, similaire à son champ de vision. Le lanceur peut alors surveiller cette zone, voir les créatures et leurs mouvements ainsi que les fortifications qui s'y trouvent. À la fin de l'incantation, interagissez sur la zone de la carte que vous désirez voir. Les effets de ce sort durent 3 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20, et ne peuvent pas être dissipés par une source extérieure.~
 
 //SPDR601.SPL
 @301 = ~Chaîne d'éclairs
