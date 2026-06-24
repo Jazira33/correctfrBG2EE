@@ -2,7 +2,7 @@
 
 <div align="center"><h1>Correction de la traduction de Baldur's Gate II : Enhanced Edition</h1>
 
-<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour BG2:EE (v2.6+) et EET (v13+)<h3>
+<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour BG2:EE (v2.7+) et EET (v13+)<h3>
 
 </div><br>
 
@@ -49,7 +49,7 @@ Merci de nous signaler toute éventuelle faute à corriger sur le <a href="https
 
 #### Jeux concernés
 
-Le mod « Correction de la traduction de Baldur's Gate II : Enhanced Edition » est conçu pour fonctionner sur BG2:EE (v2.6+) et EET (v13+).
+Le mod « Correction de la traduction de Baldur's Gate II : Enhanced Edition » est conçu pour fonctionner sur BG2:EE (v2.7+) et EET (v13+).
 
 
 #### Compatibilité avec les autres mods
