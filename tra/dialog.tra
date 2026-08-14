@@ -13404,17 +13404,17 @@ CAPACITÉS :
 
 POSE DE PIÈGE : Grâce à cette capacité, le lanceur peut poser un piège sur la zone désignée à une portée maximale de 0,3 mètre. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Toute créature ennemie violant la zone piégée de 5,7 mètres de rayon subit la magie que ce piège renferme. Au moment où le piège est activé, il affecte toutes les créatures ennemies présentes dans un rayon de 6,6 mètres. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : les créatures touchées subissent 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde).
- Niveau 11-15 : les créatures touchées subissent 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +2d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
- Niveau 16-20 : les créatures touchées subissent 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +4d8 +2 points de dégâts de feu (sans jet de sauvegarde).
- Niveau 21 et plus : les créatures touchées subissent 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +20 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort à +4 pour annuler).
+ Niveau 1-10 : 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde).
+ Niveau 11-15 : 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +2d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
+ Niveau 16-20 : 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +4d8 +2 points de dégâts de feu (sans jet de sauvegarde).
+ Niveau 21 et plus : 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +20 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort à +4 pour annuler).
 
 En cas d'échec lors de la pose du piège, il y a 25 % de chances qu'il explose entre les doigts du lanceur. Les effets de l'explosion dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde).
- Niveau 11-15 : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +1d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
- Niveau 16-20 : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +2d8 +2 points de dégâts de feu (sans jet de sauvegarde).
- Niveau 21 et plus : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +10 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort pour annuler).
+ Niveau 1-10 : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde).
+ Niveau 11-15 : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +1d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
+ Niveau 16-20 : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +2d8 +2 points de dégâts de feu (sans jet de sauvegarde).
+ Niveau 21 et plus : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +10 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort pour annuler).
 
 Les dégâts de poison et l'effet de mort magique sont inefficaces contre les créatures immunisées aux poisons ainsi qu'à la plupart des créatures mortes-vivantes et des créatures artificielles. Les dégâts ainsi causés contournent les répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir. La résistance à la magie des créatures touchées ou du lanceur est ignorée. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le piège soit déclenché par une créature et ne peuvent pas être dissipés par une source extérieure.
 
@@ -13437,7 +13437,7 @@ CAPACITÉS :
 - Peut lancer des sorts profanes à partir du niveau 2.
 - Peut lancer « Chant du barde ».
 
-CHANT DU BARDE : Ce chant octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 1 à la chance, plus un bonus de 1 à la chance par tranche de 5 niveaux d'expérience du lanceur à partir du niveau 15, jusqu'à un bonus maximum de 3 à la chance au niveau 20. De plus, les créatures affectées deviennent immunisées à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures alliées sourdes ne sont pas affectées. Cette capacité peut se combiner avec les effets des capacités Chant du scalde, Chant du maître-lames et Chant du bouffon ainsi qu'à la capacité de haut niveau Chant du barde amélioré. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
+CHANT DU BARDE : Cette capacité octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 1 à la chance, plus un bonus de 1 à la chance par tranche de 5 niveaux d'expérience du lanceur à partir du niveau 15, jusqu'à un bonus maximum de 3 à la chance au niveau 20. De plus, les créatures affectées deviennent immunisées à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures alliées sourdes ne sont pas affectées. Cette capacité peut se combiner avec les effets des capacités Chant du scalde, Chant du maître-lames et Chant du bouffon ainsi qu'à la capacité de haut niveau Chant du barde amélioré. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
 
 La chance influence de nombreuses choses, un score de 1 à la chance octroie un bonus de 1 aux jets d'attaque, d'initiative, de forçage de serrures, de Crochetage de serrures, de Désamorçage des pièges, de Pose de piège, de Se cacher dans l'ombre, de dégâts et de soins minimaux (par exemple, une plage de 1d8 fera 2-8 au lieu de 1-8). De plus, la plage des dés de dégâts reçus pour toutes les sources de dégâts en dehors des dégâts de base d'une arme est réduite de 1. Par exemple, un sort profane de 3ème niveau Boule de feu infligeant normalement 6d6 points de dégâts de feu n'infligera que 6d5 points de dégâts de feu. Pour finir, la chance affecte les probabilités de toucher les répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir (voir la description de ces sorts).
 
@@ -13455,7 +13455,7 @@ Les effets de cette capacité de haut niveau durent 24 heures ou jusqu'à ce qu'
 
 Cette capacité de haut niveau ne peut être mémorisée qu'une seule fois. La flûte magique n'est pas affectée par les sorts profanes, divins et druidiques de 3ème niveau Dissipation de la magie et Délivrance de la magie.
 
-CHANT DU BARDE AMÉLIORÉ : Ce chant aux pouvoirs décuplés octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 4 à la classe d'armure, aux jets d'attaque et de dégâts ainsi qu'un bonus de 5 % à la résistance à la magie. De plus, les créatures affectées deviennent immunisées à l'étourdissement, à la confusion, aux armes non-magiques, à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. En outre, le lanceur obtient également un bonus de 6 à la classe d'armure supplémentaire (pour un bonus total de 10 à la classe d'armure) et un bonus de 5 % à la résistance à la magie supplémentaire (pour un bonus total de 10 % à la résistance à la magie). Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité de haut niveau. Les créatures alliées sourdes ne sont pas affectées. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Cette capacité de haut niveau peut se combiner avec les effets des capacités Chant du barde, Chant du scalde, Chant du maître-lames et Chant du bouffon. Les effets de cette capacité de haut niveau durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
+CHANT DU BARDE AMÉLIORÉ : Cette capacité de haut niveau octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 4 à la classe d'armure, aux jets d'attaque et de dégâts ainsi qu'un bonus de 5 % à la résistance à la magie. De plus, les créatures affectées deviennent immunisées à l'étourdissement, à la confusion, aux armes non-magiques, à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. En outre, le lanceur obtient également un bonus de 6 à la classe d'armure supplémentaire (pour un bonus total de 10 à la classe d'armure) et un bonus de 5 % à la résistance à la magie supplémentaire (pour un bonus total de 10 % à la résistance à la magie). Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité de haut niveau. Les créatures alliées sourdes ne sont pas affectées. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Cette capacité de haut niveau peut se combiner avec les effets des capacités Chant du barde, Chant du scalde, Chant du maître-lames et Chant du bouffon. Les effets de cette capacité de haut niveau durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
 
 Cette capacité de haut niveau ne peut être mémorisée qu'une seule fois. Cette capacité de haut niveau remplace les capacités Chant du barde, Chant du scalde, Chant du maître-lames et Chant du bouffon.~
 @9563  = ~MAGE : Le magicien s'efforce de maîtriser les énergies magiques en leur donnant forme et en lançant les sorts qu'il a ainsi créés. Pour y parvenir, il étudie des langues étranges, ainsi que des faits obscurs, et consacre une grande partie de son temps à des recherches dans le domaine de la magie. Pour survivre, les magiciens doivent faire appel à leurs connaissances et à leur intelligence. On les voit rarement s'aventurer sans une escorte de guerriers et d'hommes en armes. De même qu'il existe plusieurs types (ou écoles) de magie, il existe différents types de magiciens. Le mage étudie tous les types de magie et apprend une grande variété de sorts. Grâce à l'étendue de son savoir, il répond parfaitement aux exigences de l'aventure.
@@ -35556,10 +35556,10 @@ Avantages :
 
 TIR AJUSTÉ : Grâce à cette capacité, tout jet d'attaque à distance réussi du lanceur effectué pendant les 10 prochaines secondes engendre des effets supplémentaires à la créature touchée. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 4-7 : la créature touchée subit un malus de 1 aux jets d'attaque pendant 20 secondes (sans jet de sauvegarde).
- Niveau 8-11 : la créature touchée subit un malus de 1 aux jets d'attaque pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes (sans jet de sauvegarde).
- Niveau 12-15 : la créature touchée subit un malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
- Niveau 16 et plus : la créature touchée subit 2 points de dégâts perforants supplémentaires, un malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
+ Niveau 4-7 : malus de 1 aux jets d'attaque pendant 20 secondes (sans jet de sauvegarde).
+ Niveau 8-11 : malus de 1 aux jets d'attaque pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes (sans jet de sauvegarde).
+ Niveau 12-15 : malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
+ Niveau 16 et plus : 2 points de dégâts perforants supplémentaires, malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
 
 Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises pendant la durée de Tir ajusté avec une arme à distance, la créature touchée subit 6 dégâts perforants supplémentaires en plus des dégâts normaux, un malus de 3 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes. La résistance à la magie de la créature touchée est ignorée. Ces effets se prolongent jusqu'à la fin de la durée de la capacité et ne peuvent pas être dissipés par une source extérieure.
 
@@ -35657,10 +35657,10 @@ Avantages :
 
 ARME EMPOISONNÉE : Grâce à cette capacité, tout jet d'attaque en mêlée et à distance réussi du lanceur effectué pendant les 5 prochains round empoisonne la créature touchée. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Cette capacité est inefficace contre les créatures immunisées aux poisons ainsi qu'à la plupart des créatures mortes-vivantes et des créatures artificielles. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Par exemple, une créature touchée par deux attaques empoisonnées d'un lanceur de niveau 13 espacées d'au moins 1 round subit 2 points de dégâts de poison par seconde pendant 24 secondes. La résistance à la magie de la créature touchée est ignorée. Seuls les dégâts périodiques peuvent être dissipés par une source extérieure, et la seule manière est d'utiliser les sorts divins et druidiques de 2ème, 4ème, 6ème et 7ème niveau Ralentissement du poison, Neutralisation du poison, Guérison et Restauration majeure ou encore des objets tels que l'Antidote. Ces effets se prolongent jusqu'à la fin de la durée de la capacité et peuvent partiellement être dissipés par une source extérieure.
 
@@ -35677,8 +35677,8 @@ Avantages :
 
 POSE DE PIÈGE SPÉCIAL : Grâce à cette capacité, le lanceur peut poser un piège spécial sur la zone désignée à une portée maximale de 30,5 mètres. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Toute créature ennemie violant la zone piégée de 5,7 mètres de rayon subit la magie que ce piège renferme. Au moment où le piège est activé, il affecte toutes les créatures ennemies présentes dans un rayon de 6,6 mètres. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : les créatures touchées subissent 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), ralentissement pendant 5 rounds (jet de sauvegarde contre les sorts à -4 pour annuler).
- Niveau 11-15 : les créatures touchées subissent 4d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), les créatures humanoïdes touchées sont immobilisées pendant 5 rounds (jet de sauvegarde contre les sorts à -1 pour annuler).
+ Niveau 1-10 : 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), ralentissement pendant 5 rounds (jet de sauvegarde contre les sorts à -4 pour annuler).
+ Niveau 11-15 : 4d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), les créatures humanoïdes touchées sont immobilisées pendant 5 rounds (jet de sauvegarde contre les sorts à -1 pour annuler).
  Niveau 16-20 : les créatures touchées subissent les effets du sort profane de 4ème niveau Sphère résistante d'Otiluke, invulnérables et incapables d'agir pendant 7 rounds (jet de sauvegarde contre les sorts pour annuler).
  Niveau 21 et plus : les créatures touchées subissent les effets du sort profane de 8ème niveau Labyrinthe, piégées dans labyrinthe extradimensionnel pendant une durée variable selon leur score d'Intelligence (sans jet de sauvegarde).
 
@@ -35713,7 +35713,7 @@ Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
 - Peut lancer « Chant du maître-lames ».
 
-CHANT DU MAÎTRE-LAMES : Ce chant octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 1 à la chance. De plus, les créatures affectées deviennent immunisées à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures alliées sourdes ne sont pas affectées. Cette capacité peut se combiner avec les effets des capacités Chant du barde, Chant du scalde et Chant du bouffon ainsi qu'à la capacité de haut niveau Chant du barde amélioré. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
+CHANT DU MAÎTRE-LAMES : Cette capacité octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 1 à la chance. De plus, les créatures affectées deviennent immunisées à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures alliées sourdes ne sont pas affectées. Cette capacité peut se combiner avec les effets des capacités Chant du barde, Chant du scalde et Chant du bouffon ainsi qu'à la capacité de haut niveau Chant du barde amélioré. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
 
 La chance influence de nombreuses choses, un score de 1 à la chance octroie un bonus de 1 aux jets d'attaque, d'initiative, de forçage de serrures, de Crochetage de serrures, de Désamorçage des pièges, de Pose de piège, de Se cacher dans l'ombre, de dégâts et de soins minimaux (par exemple, une plage de 1d8 fera 2-8 au lieu de 1-8). De plus, la plage des dés de dégâts reçus pour toutes les sources de dégâts en dehors des dégâts de base d'une arme est réduite de 1. Par exemple, un sort profane de 3ème niveau Boule de feu infligeant normalement 6d6 points de dégâts de feu n'infligera que 6d5 points de dégâts de feu. Pour finir, la chance affecte les probabilités de toucher les répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir (voir la description de ces sorts).
 
@@ -35737,11 +35737,11 @@ Désavantages :
 Avantages :
 - Peut lancer « Chant du bouffon ».
 
-CHANT DU BOUFFON : Ce chant affecte toutes les créatures ennemies présentes dans un rayon de 5 mètres autour du lanceur, et ses effets s'appliquent à chaque round. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures ennemies sourdes ne sont pas affectées. Les effets dépendent du niveau d'expérience du lanceur :
+CHANT DU BOUFFON : Cette capacité affecte toutes les créatures ennemies présentes dans un rayon de 5 mètres autour du lanceur, et ses effets s'appliquent à chaque round. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures ennemies sourdes ne sont pas affectées. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-14 : les créatures affectées doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion pendant 7 secondes.
- Niveau 15-19 : les créatures affectées doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion pendant 7 secondes et un jet de sauvegarde contre les sorts sous peine d'être ralenties pendant 7 secondes.
- Niveau 20 et plus : les créatures affectées doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion pendant 7 secondes, un jet de sauvegarde contre les sorts à +2 sous peine de sombrer dans l'inconscience pendant 7 secondes et un jet de sauvegarde contre les sorts sous peine d'être ralenties pendant 7 secondes.
+ Niveau 1-14 : confusion pendant 7 secondes (jet de sauvegarde contre les sorts à +2 pour annuler).
+ Niveau 15-19 : confusion pendant 7 secondes (jet de sauvegarde contre les sorts à +2 pour annuler), ralentissement pendant 7 secondes (jet de sauvegarde contre les sorts pour annuler).
+ Niveau 20 et plus : confusion pendant 7 secondes (jet de sauvegarde contre les sorts à +2 pour annuler), inconscience pendant 7 secondes (jet de sauvegarde contre les sorts à +2 pour annuler), ralentissement pendant 7 secondes (jet de sauvegarde contre les sorts pour annuler).
 
 Les créatures confuses sont incontrôlables, elles deviennent soit indécises et demeurent en place, soit attaquent la créature la plus proche, soit errent sans but dans le plus grand des chaos. Les créatures ralenties subissent un malus de 2 à l'initiative et un malus de 50 % à la vitesse de déplacement ainsi qu'au nombre d'attaque par round. Les attaques physiques portées aux créatures ayant sombré dans l'inconscience n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts. Cette capacité peut se combiner avec les effets des capacités Chant du barde, Chant du scalde et Chant du maître-lames ainsi qu'à la capacité de haut niveau Chant du barde amélioré. La résistance à la magie des créatures affectées est ignorée. L'effet de confusion peut être dissipé par les sorts divins et druidiques de 3ème et 7ème niveau Lucidité spirituelle et Restauration majeure, la capacité Exaltation ou encore des objets tels que les Cordes emmêlées. L'effet d'inconscience peut être dissipé par la capacité Exaltation ou encore des objets tels que le Collier à clochette. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, peuvent partiellement être dissipés par une source extérieure et ne sont pas cumulables.
 
@@ -35755,11 +35755,11 @@ Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
 - Peut lancer « Chant du scalde ».
 
-CHANT DU SCALDE : Ce chant affecte toutes les créatures alliées présentes dans un rayon de 5 mètres autour du lanceur. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures alliées sourdes ne sont pas affectées. Les effets dépendent du niveau d'expérience du lanceur :
+CHANT DU SCALDE : Cette capacité affecte toutes les créatures alliées présentes dans un rayon de 5 mètres autour du lanceur. Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité. Les créatures alliées sourdes ne sont pas affectées. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-14 : les créatures affectées gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
- Niveau 15-19 : les créatures affectées gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme.
- Niveau 20 et plus : les créatures affectées gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à l'étourdissement, à la confusion, à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme.
+ Niveau 1-14 : bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
+ Niveau 15-19 : bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme.
+ Niveau 20 et plus : bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à l'étourdissement, à la confusion, à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme.
 
 Cette capacité peut se combiner avec les effets des capacités Chant du barde, Chant du maître-lames et Chant du bouffon ainsi qu'à la capacité de haut niveau Chant du barde amélioré. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
 
@@ -91863,7 +91863,7 @@ Temps d'incantation : 0
 Zone d'effet : les alliés dans un rayon de 5 mètres autour du lanceur
 Jet de sauvegarde : aucun
 
-Ce chant aux pouvoirs décuplés octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 4 à la classe d'armure, aux jets d'attaque et de dégâts ainsi qu'un bonus de 5 % à la résistance à la magie. De plus, les créatures affectées deviennent immunisées à l'étourdissement, à la confusion, aux armes non-magiques, à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. En outre, le lanceur obtient également un bonus de 6 à la classe d'armure supplémentaire (pour un bonus total de 10 à la classe d'armure) et un bonus de 5 % à la résistance à la magie supplémentaire (pour un bonus total de 10 % à la résistance à la magie). Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité de haut niveau. Les créatures alliées sourdes ne sont pas affectées. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Cette capacité de haut niveau peut se combiner avec les effets des capacités Chant du barde, Chant du scalde, Chant du maître-lames et Chant du bouffon. Les effets de cette capacité de haut niveau durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
+Cette capacité de haut niveau octroie aux créatures alliées présentes dans un rayon de 5 mètres autour du lanceur un bonus de 4 à la classe d'armure, aux jets d'attaque et de dégâts ainsi qu'un bonus de 5 % à la résistance à la magie. De plus, les créatures affectées deviennent immunisées à l'étourdissement, à la confusion, aux armes non-magiques, à la peur, aux échecs de test de moral et de modification de moral, tout en réhaussant leur moral à leur plus haut niveau. En outre, le lanceur obtient également un bonus de 6 à la classe d'armure supplémentaire (pour un bonus total de 10 à la classe d'armure) et un bonus de 5 % à la résistance à la magie supplémentaire (pour un bonus total de 10 % à la résistance à la magie). Un lanceur victime d'un effet de silence ne peut pas lancer cette capacité de haut niveau. Les créatures alliées sourdes ne sont pas affectées. Si les créatures affectées sont déjà atteintes par un effet de peur ou d'échecs de test de moral, ceux-ci sont dissipés et elles retrouvent leur calme. Cette capacité de haut niveau peut se combiner avec les effets des capacités Chant du barde, Chant du scalde, Chant du maître-lames et Chant du bouffon. Les effets de cette capacité de haut niveau durent indéfiniment ou jusqu'à ce que le lanceur arrête de chanter, ne peuvent pas être dissipés par une source extérieure et ne sont pas cumulables.
 
 Cette capacité de haut niveau ne peut être mémorisée qu'une seule fois. Cette capacité de haut niveau remplace les capacités Chant du barde, Chant du scalde, Chant du maître-lames et Chant du bouffon.~
 @70406 = ~Demi-liche~
@@ -100716,10 +100716,10 @@ Le lanceur est immunisé à un éventuel renvoi de cette capacité, tel que par 
 
 ARME EMPOISONNÉE : Grâce à cette capacité, tout jet d'attaque en mêlée et à distance réussi du lanceur effectué pendant les 5 prochains round empoisonne la créature touchée. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Cette capacité est inefficace contre les créatures immunisées aux poisons ainsi qu'à la plupart des créatures mortes-vivantes et des créatures artificielles. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Par exemple, une créature touchée par deux attaques empoisonnées d'un lanceur de niveau 13 espacées d'au moins 1 round subit 2 points de dégâts de poison par seconde pendant 24 secondes. La résistance à la magie de la créature touchée est ignorée. Seuls les dégâts périodiques peuvent être dissipés par une source extérieure, et la seule manière est d'utiliser les sorts divins et druidiques de 2ème, 4ème, 6ème et 7ème niveau Ralentissement du poison, Neutralisation du poison, Guérison et Restauration majeure ou encore des objets tels que l'Antidote. Ces effets se prolongent jusqu'à la fin de la durée de la capacité et peuvent partiellement être dissipés par une source extérieure.
 
@@ -100729,10 +100729,10 @@ La fréquence des dégâts périodiques peut être grandement modifiée par les 
 
 AURA DE DÉSESPOIR : Cette capacité permet d'affaiblir et éventuellement d'apeurer toutes les créatures ennemies présentes dans un rayon de 5 mètres autour du lanceur. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 3-5 : les créatures affectées subissent un malus de 1 aux jets d'attaque et de dégâts ainsi qu'un malus de 2 à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
- Niveau 6-14 : les créatures affectées subissent un malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
- Niveau 15-19 : les créatures affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 8 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
- Niveau 20 et plus : les créatures affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 18 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
+ Niveau 3-5 : malus de 1 aux jets d'attaque et de dégâts ainsi qu'un malus de 2 à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
+ Niveau 6-14 : malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
+ Niveau 15-19 : malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 8 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
+ Niveau 20 et plus : malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 18 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
 
 Les créatures apeurées sont incontrôlables et errent sans but dans le plus grand des chaos. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées contre la peur. Les effets de cette capacité durent 1 tour ou jusqu'à ce qu'ils soient dissipés par une source extérieure et ne sont pas cumulables.
 
@@ -104973,9 +104973,9 @@ Jet de sauvegarde : aucun
 
 Cette capacité permet à Hexxat de convoquer des créatures d'ombres à une portée maximale de 4,5 mètres. À la fin de l'incantation, les créatures se matérialisent instantanément et attaquent les créatures ennemies du lanceur. Les créatures convoquées peuvent obéir à des ordres simples. La quantité et la puissance des créatures convoquées dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10  : convoque 1d4 +1 rats.
- Niveau 11-20 : convoque 3 loups +10 % de chances de convoquer 1 loup supplémentaire par niveau d'expérience du lanceur à partir du niveau 11, jusqu'à un maximum de 90 % de chances de convoquer 1 loup supplémentaire au niveau 19.
- Niveau 21 et plus : convoque 3 ombres +10 % de chances de convoquer 1 ombre supplémentaire par niveau d'expérience du lanceur à partir du niveau 21, jusqu'à un maximum de 90 % de chances de convoquer 1 ombre supplémentaire au niveau 29.
+ Niveau 1-10  : 1d4 +1 rats.
+ Niveau 11-20 : 3 loups +10 % de chances de convoquer 1 loup supplémentaire par niveau d'expérience du lanceur à partir du niveau 11, jusqu'à un maximum de 90 % de chances de convoquer 1 loup supplémentaire au niveau 19.
+ Niveau 21 et plus : 3 ombres +10 % de chances de convoquer 1 ombre supplémentaire par niveau d'expérience du lanceur à partir du niveau 21, jusqu'à un maximum de 90 % de chances de convoquer 1 ombre supplémentaire au niveau 29.
 
 Les effets de cette capacité durent 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 30 rounds au niveau 30, ou jusqu'à ce que les créatures convoquées soient tuées.
 
@@ -125413,17 +125413,17 @@ Jet de sauvegarde : spécial
 
 Grâce à cette capacité, le lanceur peut poser un piège sur la zone désignée à une portée maximale de 0,3 mètre. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Toute créature ennemie violant la zone piégée de 5,7 mètres de rayon subit la magie que ce piège renferme. Au moment où le piège est activé, il affecte toutes les créatures ennemies présentes dans un rayon de 6,6 mètres. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : les créatures touchées subissent 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde).
- Niveau 11-15 : les créatures touchées subissent 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +2d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
- Niveau 16-20 : les créatures touchées subissent 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +4d8 +2 points de dégâts de feu (sans jet de sauvegarde).
- Niveau 21 et plus : les créatures touchées subissent 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +20 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort à +4 pour annuler).
+ Niveau 1-10 : 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde).
+ Niveau 11-15 : 2d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +2d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
+ Niveau 16-20 : 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +4d8 +2 points de dégâts de feu (sans jet de sauvegarde).
+ Niveau 21 et plus : 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), +20 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort à +4 pour annuler).
 
 En cas d'échec lors de la pose du piège, il y a 25 % de chances qu'il explose entre les doigts du lanceur. Les effets de l'explosion dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde).
- Niveau 11-15 : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +1d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
- Niveau 16-20 : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +2d8 +2 points de dégâts de feu (sans jet de sauvegarde).
- Niveau 21 et plus : le lanceur subit 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +10 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort pour annuler).
+ Niveau 1-10 : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde).
+ Niveau 11-15 : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +1d6 points de dégâts de poison par round pendant 3 rounds (sans jet de sauvegarde).
+ Niveau 16-20 : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +2d8 +2 points de dégâts de feu (sans jet de sauvegarde).
+ Niveau 21 et plus : 1d8 +2 points de dégâts de projectiles (sans jet de sauvegarde), +10 points de dégâts de poison (sans jet de sauvegarde), mort (jet de sauvegarde contre la mort pour annuler).
 
 Les dégâts de poison et l'effet de mort magique sont inefficaces contre les créatures immunisées aux poisons ainsi qu'à la plupart des créatures mortes-vivantes et des créatures artificielles. Les dégâts ainsi causés contournent les répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir. La résistance à la magie des créatures touchées ou du lanceur est ignorée. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que le piège soit déclenché par une créature et ne peuvent pas être dissipés par une source extérieure.
 
@@ -125439,8 +125439,8 @@ Jet de sauvegarde : spécial
 
 Grâce à cette capacité, le lanceur peut poser un piège spécial sur la zone désignée à une portée maximale de 30,5 mètres. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Toute créature ennemie violant la zone piégée de 5,7 mètres de rayon subit la magie que ce piège renferme. Au moment où le piège est activé, il affecte toutes les créatures ennemies présentes dans un rayon de 6,6 mètres. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : les créatures touchées subissent 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), ralentissement pendant 5 rounds (jet de sauvegarde contre les sorts à -4 pour annuler).
- Niveau 11-15 : les créatures touchées subissent 4d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), les créatures humanoïdes touchées sont immobilisées pendant 5 rounds (jet de sauvegarde contre les sorts à -1 pour annuler).
+ Niveau 1-10 : 3d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), ralentissement pendant 5 rounds (jet de sauvegarde contre les sorts à -4 pour annuler).
+ Niveau 11-15 : 4d8 +5 points de dégâts de projectiles (sans jet de sauvegarde), les créatures humanoïdes touchées sont immobilisées pendant 5 rounds (jet de sauvegarde contre les sorts à -1 pour annuler).
  Niveau 16-20 : les créatures touchées subissent les effets du sort profane de 4ème niveau Sphère résistante d'Otiluke, invulnérables et incapables d'agir pendant 7 rounds (jet de sauvegarde contre les sorts pour annuler).
  Niveau 21 et plus : les créatures touchées subissent les effets du sort profane de 8ème niveau Labyrinthe, piégées dans labyrinthe extradimensionnel pendant une durée variable selon leur score d'Intelligence (sans jet de sauvegarde).
 
@@ -125563,10 +125563,10 @@ Jet de sauvegarde : aucun
 
 Cette capacité permet d'affaiblir et éventuellement d'apeurer toutes les créatures ennemies présentes dans un rayon de 5 mètres autour du lanceur. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 3-5 : les créatures affectées subissent un malus de 1 aux jets d'attaque et de dégâts ainsi qu'un malus de 2 à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
- Niveau 6-14 : les créatures affectées subissent un malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
- Niveau 15-19 : les créatures affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 8 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
- Niveau 20 et plus : les créatures affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 18 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
+ Niveau 3-5 : malus de 1 aux jets d'attaque et de dégâts ainsi qu'un malus de 2 à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
+ Niveau 6-14 : malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde).
+ Niveau 15-19 : malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 8 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
+ Niveau 20 et plus : malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour (sans jet de sauvegarde), les créatures affectées ayant 18 dés de vie (ou niveaux d'expérience) ou moins sont apeurées (sans jet de sauvegarde) pendant 1 tour.
 
 Les créatures apeurées sont incontrôlables et errent sans but dans le plus grand des chaos. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées contre la peur. Les effets de cette capacité durent 1 tour ou jusqu'à ce qu'ils soient dissipés par une source extérieure et ne sont pas cumulables.
 
@@ -125582,10 +125582,10 @@ Jet de sauvegarde : aucun
 
 Grâce à cette capacité, tout jet d'attaque à distance réussi du lanceur effectué pendant les 10 prochaines secondes engendre des effets supplémentaires à la créature touchée. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 4-7 : la créature touchée subit un malus de 1 aux jets d'attaque pendant 20 secondes (sans jet de sauvegarde).
- Niveau 8-11 : la créature touchée subit un malus de 1 aux jets d'attaque pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes (sans jet de sauvegarde).
- Niveau 12-15 : la créature touchée subit un malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
- Niveau 16 et plus : la créature touchée subit 2 points de dégâts perforants supplémentaires, un malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
+ Niveau 4-7 : malus de 1 aux jets d'attaque pendant 20 secondes (sans jet de sauvegarde).
+ Niveau 8-11 : malus de 1 aux jets d'attaque pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes (sans jet de sauvegarde).
+ Niveau 12-15 : malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
+ Niveau 16 et plus : 2 points de dégâts perforants supplémentaires, malus de 1 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes (sans jet de sauvegarde).
 
 Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises pendant la durée de Tir ajusté avec une arme à distance, la créature touchée subit 6 dégâts perforants supplémentaires en plus des dégâts normaux, un malus de 3 aux jets d'attaque pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes. La résistance à la magie de la créature touchée est ignorée. Ces effets se prolongent jusqu'à la fin de la durée de la capacité et ne peuvent pas être dissipés par une source extérieure.
 
@@ -125649,10 +125649,10 @@ Jet de sauvegarde : spécial
 
 Grâce à cette capacité, tout jet d'attaque en mêlée et à distance réussi du lanceur effectué pendant les 5 prochains round empoisonne la créature touchée. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Cette capacité est inefficace contre les créatures immunisées aux poisons ainsi qu'à la plupart des créatures mortes-vivantes et des créatures artificielles. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Par exemple, une créature touchée par deux attaques empoisonnées d'un lanceur de niveau 13 espacées d'au moins 1 round subit 2 points de dégâts de poison par seconde pendant 24 secondes. La résistance à la magie de la créature touchée est ignorée. Seuls les dégâts périodiques peuvent être dissipés par une source extérieure, et la seule manière est d'utiliser les sorts divins et druidiques de 2ème, 4ème, 6ème et 7ème niveau Ralentissement du poison, Neutralisation du poison, Guérison et Restauration majeure ou encore des objets tels que l'Antidote. Ces effets se prolongent jusqu'à la fin de la durée de la capacité et peuvent partiellement être dissipés par une source extérieure.
 
