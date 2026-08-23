@@ -49,11 +49,11 @@
 @48    = ~J'ai peut-être été un peu dur avec toi. Joins-toi à moi, si tu le souhaites, mais en tant que camarade.~
 @49    = ~Un mensonge bien appris et déclamé par un acteur... Allons, esclave, ma patience a des limites...~
 @50    = ~Bien, bien, je présume qu'il est préférable de n'avoir rien à faire avec toi. Disparais de ma vue.~
-@51    = ~Oui, mais lorsque les gardiens seront partis, nous, oiseaux et bardes, auront à notre disposition certains moyens. Et, à moins que tu ne tiennes à rester ici pour l'éternité, il vaudrait mieux que nous nous en allions.~
+@51    = ~Oui, mais lorsque les gardiens seront partis, nous, oiseaux et bardes, aurons à notre disposition certains moyens. Et, à moins que tu ne tiennes à rester ici pour l'éternité, il vaudrait mieux que nous nous en allions.~
 @52    = ~S'il est aussi facile de s'évader, pourquoi ne t'es-tu pas échappé des griffes de Mekrath ?~
 @53    = ~Très bien, va-t'en alors ! Je n'ai rien de plus à faire avec toi !~
 @54    = ~Je ne devrais pas pouvoir te garder ici, mais je peux certainement te prendre avec moi.~
-@55    = ~Je ne suis resté prisonnier que parce que je le voulais bien. Il avait caché une gemme qui m'appartenait dans cet endroit et je le surveillais pour découvrir un indice sur sa localisation. Ça t'ennuies de la chercher avec moi ?~
+@55    = ~Je ne suis resté prisonnier que parce que je le voulais bien. Il avait caché une gemme qui m'appartenait dans cet endroit et je le surveillais pour découvrir un indice sur sa localisation. Ça t'ennuie de la chercher avec moi ?~
 @56    = ~Une gemme ? Certainement, unissons nos efforts pour la dénicher.~
 @57    = ~Tu veux dire que tu étais réduit en esclavage parce que tu le voulais bien ? Tu me prends vraiment pour un idiot.~ ~Tu veux dire que tu étais réduit en esclavage parce que tu le voulais bien ? Tu me prends vraiment pour une idiote.~
 @58    = ~Je n'ai pas besoin de toi pour trouver une gemme, mais je te remercie de m'avoir informé de son existence.~
@@ -174,7 +174,7 @@
 @173   = ~Prêtresse elfe noire~
 @174   = ~Lea'liyl~
 @175   = ~Lea'liyl~
-@176   = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@176   = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 Le corps de cet arc est tiède au toucher, signe évident de propriétés magiques.
 
@@ -210,7 +210,7 @@ Poids : 3~
 @196   = ~Adepte du culte de la wiverne~
 @197   = ~Ceux qui nous connaissent vous aideront comme ils le pourront... Emplissez cet endroit de musique en mémoire de ce qui s'est passé... allez, et prenez avec vous ce beau papillon de nuit.~
 @198   = ~Alors partez avec mes remerciements. Et toi, mon bel Haer'Dalis... garde une pensée affectueuse pour nous dans tes pérégrinations. Allez, <CHARNAME>, et prenez avec vous ce beau papillon de nuit.~
-@199   = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@199   = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Cet arc court peut rivaliser avec n'importe quel arc long. La magie qui en émane, qu'elle vienne du bois qui le constitue ou qu'elle soit le fruit des enchantements d'un magicien, lui accorde une précision et une puissance hors du commun.
 
@@ -245,7 +245,7 @@ Poids : 2~
 @218   = ~Ah, le théâtre ! Il est dans le sous-sol de cette auberge... Allons, entrons. Demoiselle Raelis sera heureuse de contempler les présents que nous apportons.~ [HAERDA82]
 @219   = ~Je peux me battre quand tu veux. Je voulais simplement te laisser une chance.~
 @220   = ~Vous devez bien vous rencontrer. Quelqu'un te paie, et il faut bien que vous vous mettiez d'accord.~
-@221   = ~Lui pas dire nous, grand maître payer en viande et en terre ! TorGal suit quoi bon pour lui ! Toi aurait dû suivre or comme autres grrthed gardes ! Maintenant toi mourir !~
+@221   = ~Lui pas dire nous, grand maître payer en viande et en terre ! TorGal suit quoi bon pour lui ! Toi aurais dû suivre or comme autres grrthed gardes ! Maintenant toi mourir !~
 @222   = ~Cadeaux toi pas intéressants, nous avoir quoi besoin ! Grand maître payer viande et terre, alors TorGal dire Rocksmash suivre. Toi aurait dû partir comme autres grrthed gardes.~
 @223   = ~Toi parler en l'air comme grand maître, mais lui payer viande et terre ! Toi pas beaucoup payer comme lui ! Toi aurait dû partir avec or comme autres petits grrthed gardes !~
 @224   = ~Moi pas besoin chance ou mots avec grrthunks comme toi, nous avoir grand maître pour viande et terres ! Pourquoi toi pas partir avec or comme autres gardes ?! Toi stupide et toi mourir !~
@@ -309,7 +309,7 @@ Poids : 2~
 @282   = ~Oui, pour 1 000 pièces d'or, je le ferai. Viens, Haer'Dalis, allons nous trouver une gemme.~
 @283   = ~Ni pour mille ni même pour cent mille. J'en ai assez d'être traité comme un gamin qu'on envoie aux commissions. Viens, Haer'Dalis, tes amis commencent à me porter sur les nerfs.~ ~Ni pour mille ni même pour cent mille. J'en ai assez d'être traitée comme une gamine qu'on envoie aux commissions. Viens, Haer'Dalis, tes amis commencent à me porter sur les nerfs.~
 @284   = ~Nous reviendrons, demoiselle Raelis.~
-@285   = ~Tu serais mon capitaine, mon ami, mon geôlier ou mon voleur que je ne te laisserais pas plus parler de demoiselle Raelis ainsi ! Prépare tes entrailles au fer froid de ma lame, pauvre fou !~ ~Tu serais ma capitaine, mon amie, ma geôlière ou ma voleuse que je ne te laisserais pas plus parler de demoiselle Raelis ainsi ! Prépare tes entrailles au fer froid de ma lame, pauvre folle !~
+@285   = ~Tu serais mon capitaine, mon ami, mon geôlier ou mon voleur que je ne te laisserais pas parler de demoiselle Raelis ainsi ! Prépare tes entrailles au fer froid de ma lame, pauvre fou !~ ~Tu serais ma capitaine, mon amie, ma geôlière ou ma voleuse que je ne te laisserais pas parler de demoiselle Raelis ainsi ! Prépare tes entrailles au fer froid de ma lame, pauvre folle !~
 @286   = ~Loup zombie~
 @287   = ~Bien, car notre temps est compté. Voici vos 1 000 pièces d'or. Haer'Dalis, explique à tes amis ce que nous allons faire. Je dois préparer le joyau pour son invocation.~
 @288   = ~Et voici 700 des misérables pièces d'or qui vous obsèdent tant. Haer'Dalis, explique à tes amis ce que nous allons faire pendant que je prépare la pierre pour l'invocation.~
@@ -321,7 +321,7 @@ Poids : 2~
 
 Une fois arrivé au quartier des quais, Yoshimo a indiqué que le chef des Voleurs de l'ombre, un certain Renal Bloodscalp, est impatient de le rencontrer. C'est d'après lui le meilleur moyen d'éviter les ennuis. Ce Renal devrait se trouver dans un des bâtiments de ce quartier.~
 @294   = ~Guérison de la cécité/surdité~
-@295   = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@295   = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Cet arc est magique, procurant à son porteur un bonus supplémentaire à la vitesse et à la précision.
 
@@ -607,7 +607,7 @@ Utilisateur : Ces entrées correspondent à ce que vous avez ajouté vous-même
 @555   = ~J'aimerais que tu te joignes à mon groupe.~
 @556   = ~Tes talents ne répondent pas vraiment à mes besoins actuels. Peut-être une autre fois.~
 @557   = ~Tu m'as tout l'air d'un inutile fardeau, gnome.~
-@558   = ~Tu n'avais pas besoin de m'injurier, espèce d'indélicat ami des orques. En effet, il vaut manifestement mieux que je ne me joignes pas à ton groupe.~ ~Tu n'avais pas besoin de m'injurier, espèce d'indélicate amie des orques. En effet, il vaut manifestement mieux que je ne me joignes pas à ton groupe.~
+@558   = ~Tu n'avais pas besoin de m'injurier, espèce d'indélicat ami des orques. En effet, il vaut manifestement mieux que je ne me joigne pas à ton groupe.~ ~Tu n'avais pas besoin de m'injurier, espèce d'indélicate amie des orques. En effet, il vaut manifestement mieux que je ne me joigne pas à ton groupe.~
 @559   = ~Tu ne sais pas ce que tu perds. Si tu changes d'avis, j'habite dans les quartiers les moins opulents de la ville, les bas quartiers, si tu préfères. Je tiendrai probablement un éventaire de navets, pour constituer lentement mon bas de laine. Bonne chance à toi.~
 @560   = ~Je ne suis qu'un pauvre gnome ruiné. Si tu peux payer cette caution pour moi, je me joindrai à ton groupe et combattrai à tes côtés. Comme je te l'ai déjà dit, j'ai jadis été un aventurier et je vais probablement devoir abandonner quelque temps le commerce de détail, de toute façon. Qu'en dis-tu ?~
 @561   = ~Je vais y réfléchir.~
@@ -2139,7 +2139,7 @@ Vous pouvez modifier votre taux de rafraîchissement avec l'utilitaire de config
 @1729  = ~C'est hors de question pour l'instant. Nous avons d'autres obligations qui sont prioritaires, et elles ne peuvent être reportées.~
 @1730  = ~Merci, et sachez que j'apprécie votre geste. Je suis une fois encore votre débitrice.~
 @1731  = ~Je suis consciente du désagrément que je vous impose, mais rassurez-vous. Il ne s'agit que d'apparaître quelques instants. Je vous sais gré de votre compréhension, malgré votre mauvaise grâce.~
-@1732  = ~C'est que la circonstance est exceptionnelle. Je ne demande pas grand-chose, enfin je veux dire, hormis de sauver mon château et de mettre en fuite une armée de trolls. S'il vous plaît, pouvons-vous au moins partir rapidement ?~
+@1732  = ~C'est que la circonstance est exceptionnelle. Je ne demande pas grand-chose, enfin je veux dire, hormis de sauver mon château et de mettre en fuite une armée de trolls. S'il vous plaît, pouvons-nous au moins partir rapidement ?~
 @1733  = ~Non, je suis navré, ma décision est prise. Nous avons mieux à faire que d'aller à des funérailles.~ ~Non, je suis navrée, ma décision est prise. Nous avons mieux à faire que d'aller à des funérailles.~
 @1734  = ~Je comprends. Nous partirons dès que nous serons prêts.~ ~Je comprends. Nous partirons dès que nous serons prêtes.~
 @1735  = ~Si cette cérémonie vous tient tellement à cœur, il nous faut donc partir sur-le-champ.~
@@ -2466,7 +2466,7 @@ Poids : 40~
 @2016  = ~De quelle potion exactement avez-vous besoin ?~
 @2017  = ~Pourquoi l'as-tu lâchée ?~
 @2018  = ~Ça brûlait.~
-@2019  = ~Tu es vraiment un petit garnement. Maintenant, fiche le camp avant que je te botte les fesses !~ ~Tu es vraiment une petite polisonne. Maintenant, fiche le camp avant que je te botte les fesses !~
+@2019  = ~Tu es vraiment un petit garnement. Maintenant, fiche le camp avant que je te botte les fesses !~ ~Tu es vraiment une petite polissonne. Maintenant, fiche le camp avant que je te botte les fesses !~
 @2020  = ~Tu es venu pour la fille, hein ?~ ~Tu es venue pour la fille, hein ?~
 @2021  = ~Oui. Savez-vous de quel mal elle peut bien souffrir ?~
 @2022  = ~Enchanteur~
@@ -2483,7 +2483,7 @@ Maintenant que je suis en possession de la moitié du sceptre, Sassar a accepté
 @2029  = ~Pas une potion, imbécile. Une saucisse. As-tu faim ? Je crois que j'ai des saucisses sous mon lit.~
 @2030  = ~Non merci, je n'ai pas faim. Avez-vous la moindre idée de ce qui a pu causer la maladie de la petite ?~
 @2031  = ~Merci, j'ai un petit creux.~
-@2032  = ~C'est bien fait pour toi. Tu es vraiment un petit garnement. Maintenant, fiche le camp avant que je te botte les fesses !~ ~C'est bien fait pour toi. Tu es vraiment une petite polisonne. Maintenant, fiche le camp avant que je te botte les fesses !~
+@2032  = ~C'est bien fait pour toi. Tu es vraiment un petit garnement. Maintenant, fiche le camp avant que je te botte les fesses !~ ~C'est bien fait pour toi. Tu es vraiment une petite polissonne. Maintenant, fiche le camp avant que je te botte les fesses !~
 @2033  = ~Sans une concentration suffisante, tu n'y arriveras jamais. Pour guérir l'esprit de Jaella, le tien doit être fort. Essaye encore.~
 @2034  = ~Celui que tu cherches, c'est l'Obscur. Va voir Jysstev dans son domaine dans le quartier du gouvernement. Elle te conduira à l'Obscur. Bon, où est passée cette saucisse ?~
 @2035  = ~La vérité ! Écoute-moi bien. Pour guérir un innocent, tu dois prendre le chemin de l'esprit. Trouve l'Obscur et il t'exaucera peut-être. Prends la route avant que l'enfant meure et ravage ta conscience !~
@@ -8696,7 +8696,7 @@ Poids : 10~
 @6859  = ~Arc long composite +1~
 @6860  = ~Arc long~
 @6861  = ~Arc long~
-@6862  = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@6862  = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 PARAMÈTRES :
 
@@ -8711,7 +8711,7 @@ Poids : 3~
 @6863  = ~Arc long +1~
 @6864  = ~Arc court~
 @6865  = ~Arc court~
-@6866  = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@6866  = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 PARAMÈTRES :
 
@@ -9137,7 +9137,7 @@ Je suis dans Ust Natha, et on m'a assigné un gradé, Solaufein, qui n'apprécie
 Alors que je craignais depuis quelque temps que la vengeance finale de Bodhi soit de m'enlever à jamais Viconia, il semble que ce que disait le livre des légendes était vrai... l'idole d'Amaunator a non seulement ramené Viconia à la vie, mais a aussi chassé sa malédiction de vampire.~
 @7123  = ~Quitter l'île
 
-J'ai récupéré la corne dont Saemon avait besoin, mais Desharik nous a surpris avant que nous puissions larger les amarres. Saemon a été tué dans le combat qui a suivi... et je ne peux plus quitter l'île. Je vais devoir retourner dans l'asile pour trouver le portail magique dont parlait Saemon. C'est mon seul espoir.~
+J'ai récupéré la corne dont Saemon avait besoin, mais Desharik nous a surpris avant que nous puissions larguer les amarres. Saemon a été tué dans le combat qui a suivi... et je ne peux plus quitter l'île. Je vais devoir retourner dans l'asile pour trouver le portail magique dont parlait Saemon. C'est mon seul espoir.~
 @7124  = ~Gemme étoile d'eau~
 @7125  = ~Gemme zoïse~
 @7126  = ~Gemme chrysobéryl~
@@ -23423,7 +23423,7 @@ Nécessite :
  18 en Force
 
 Poids : 9~
-@16289 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@16289 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 PARAMÈTRES :
 
@@ -23433,7 +23433,7 @@ Type de compétence : arc long
 Type : arme à deux mains
 
 Poids : 3~
-@16290 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@16290 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 PARAMÈTRES :
 
@@ -25661,7 +25661,7 @@ Poids : 15~
 @17640 = ~Prêtre d'Ilmater~
 @17641 = ~Verling~
 @17642 = ~Verling~
-@17643 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@17643 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 Celui-ci est enchanté, ce qui le rapproche de la perfection en la matière.
 
@@ -25925,7 +25925,7 @@ PARAMÈTRES :
 Spécial : restaure 9 points de vie
 
 Poids : 1~
-@17668 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@17668 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Cet arc est magique, procurant à son porteur un bonus supplémentaire à la vitesse, à la précision et aux dégâts.
 
@@ -92846,7 +92846,7 @@ Nécessite :
 
 Poids : 7~
 @71057 = ~Arc long +3~
-@71058 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
+@71058 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
 Le corps de cet arc est chaud au toucher, signe évident de puissantes propriétés magiques.
 
@@ -92861,7 +92861,7 @@ Nécessite :
 
 Poids : 2~
 @71059 = ~Arc court +3~
-@71060 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@71060 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce de bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Cet arc court peut rivaliser avec n'importe quel arc long, même magique. La puissante magie qui en émane, qu'elle vienne du bois qui le constitue ou qu'elle soit le fruit des puissants enchantements d'un magicien, lui accorde une précision et une puissance absolument hors du commun.
 
