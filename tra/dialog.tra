@@ -17822,7 +17822,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Avec ce sort, le lanceur se téléporte à une portée maximale de 122 mètres. Le lanceur doit choisir l'emplacement où il désire se téléporter, puis à la fin de l'incantation une porte dimensionnelle apparaît qu'il franchit pour se retrouver à l'endroit désiré après 1 seconde. Il est uniquement possible de se téléporter dans une zone visible par le lanceur et que le sort profane, divin ou druidique de 4ème niveau Vision lointaine peut révéler une zone au-delà du champ de vision du lanceur.~
+Avec ce sort, le lanceur se téléporte à une portée maximale de 122 mètres. Le lanceur doit choisir l'emplacement où il désire se téléporter, puis à la fin de l'incantation une porte dimensionnelle apparaît qu'il franchit pour se retrouver à l'endroit désiré après 1 seconde. Il est uniquement possible de se téléporter dans une zone visible par le lanceur. Le sort profane, divin ou druidique de 4ème niveau Vision lointaine peut révéler une zone au-delà du champ de vision du lanceur.~
 @12193 = ~Hâte
 (Transmutation, Non-offensif)
 
