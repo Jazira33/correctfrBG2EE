@@ -36495,7 +36495,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-En jetant ce sort, le lanceur convoque un serviteur aérien à une portée maximale de 6 mètres. À la fin de l'incantation, un portail apparaît à l'endroit désigné et un serviteur aérien en émerge après 2 secondes. Le serviteur aérien dispose de 16 dés de vie (128 points de vie), de 23 en Force, de 9 en Dextérité, de 5 au TAC0, de 3 à la classe d'armure, de 1 attaque par round, inflige 4d8 points de dégâts contondants et peut atteindre les créatures comme une arme de niveau d'enchantement +4. Il est immunisé contre les armes non-magiques et au labyrinthe. De plus, le serviteur aérien est invisible. Tant qu'il n'a pas révélé sa présence par une action offensive, le serviteur aérien obtient un bonus de 4 à son prochain jet d'attaque de mêlée, après quoi il n'est plus considéré comme étant invisible. Les créatures convoquées peuvent obéir à des ordres simples. Les effets de ce sort durent 1 tour par niveau d'expérience du lanceur, jusqu'à un maximum de 20 tours au niveau 20, ou jusqu'à ce que la créature convoquée soit tuée.
+En jetant ce sort, le lanceur convoque un serviteur aérien à une portée maximale de 6 mètres. À la fin de l'incantation, un portail apparaît à l'endroit désigné et un serviteur aérien en émerge après 2 secondes. Le serviteur aérien dispose de 16 dés de vie (128 points de vie), de 23 en Force, de 9 en Dextérité, de 5 au TAC0, de 3 à la classe d'armure, de 1 attaque par round, d'un niveau d'enchantement de +4 et inflige 4d8 points de dégâts contondants. Il est immunisé contre les armes non-magiques et au labyrinthe. De plus, le serviteur aérien est invisible. Tant qu'il n'a pas révélé sa présence par une action offensive, le serviteur aérien obtient un bonus de 4 à son prochain jet d'attaque de mêlée, après quoi il n'est plus considéré comme étant invisible. Les créatures convoquées peuvent obéir à des ordres simples. Les effets de ce sort durent 1 tour par niveau d'expérience du lanceur, jusqu'à un maximum de 20 tours au niveau 20, ou jusqu'à ce que la créature convoquée soit tuée.
 
 Les créatures convoquées sont limitées à 5, plus 1 créature céleste (planétaire, planétaire déchu, déva, déva déchue, etc.), plus 1 prince élémentaire (Chan, Sunnis, Zaaman Rul, etc.). Les créatures convoquées ne peuvent pas quitter la zone où elles ont été conjurées.~
 @25741 = ~Ne t'inquiète pas pour moi, mon ami. Je suis capable de me défendre... et de punir ceux qui commettent de tels actes !~ ~Ne t'inquiète pas pour moi, mon amie. Je suis capable de me défendre... et de punir ceux qui commettent de tels actes !~
@@ -37736,12 +37736,12 @@ Jet de sauvegarde : aucun
 Ce sort permet au lanceur de changer de forme en une autre créature (flagelleur mental, golem de fer, muloup majeur, élémentaire de terre, élémentaire de feu, troll géant) et de bénéficier de certaines de leurs caractéristiques tout en conservant sa personnalité et ses attributs mentaux. Pendant toute la durée du sort, le lanceur peut changer de forme à volonté, autant de fois qu'il le désire avec un changement de forme maximum par round. Le lanceur gagne les attaques naturelles de ces formes, cependant il ne peut pas jeter de sorts profanes, divins ou druidiques lorsqu'il est affecté par un changement de forme et doit reprendre sa forme naturelle. Il reste néanmoins possible de lancer des sorts grâce aux parchemins et aux baguettes. Les immunités et résistances naturelles à certains types de dégâts de ces formes sont également acquises. La plupart des capacités d'équipement des objets que porte le lanceur sont conservées, hormis celles de l'arme principale. Les points de vie du lanceur restent inchangés quelle que soit la forme adoptée. Les effets de ce sort durent 1 heure et ne peuvent pas être dissipés par une source extérieure.
 
 Les changements de forme possibles sont les suivants :
-- Flagelleur mental : 10 en Force, 10 en Dextérité, 5 à la classe d'armure de base, 4 attaques par round, 1d2 points de dégâts contondants, -5 en Intelligence pendant 30 secondes, peut atteindre les créatures comme une arme de niveau d'enchantement +2, peut utiliser la capacité Souffle psionique (étourdit les créatures ennemies pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts)
-- Golem de fer : 24 en Force, 9 en Dextérité, 3 à la classe d'armure de base, 1 attaque par round, 4d10 points de dégâts contondants, peut atteindre les créatures comme une arme de niveau d'enchantement +4, 100 % de résistance à la magie, 125 % de résistance aux dégâts de feu et de feu magique, 100 % de résistance aux dégâts de froid, de froid magique, électriques et acides, 20 % de résistance aux dégâts tranchants, contondants, perforants et de projectiles, immunité aux attaques sournoises
-- Muloup majeur : 19 en Force, 19 en Dextérité, 2 à la classe d'armure de base, 3 attaques par round, 1d12 points de dégâts tranchants, peut atteindre les créatures comme une arme de niveau d'enchantement +1, régénère 8 points de vie par seconde, 50 % de résistance aux dégâts de feu, de feu magique, de froid, de froid magique, électriques et acides, immunité aux armes de niveau d'enchantement +1 ou inférieures
-- Élémentaire de terre : 19 en Force, 9 en Dextérité, 2 à la classe d'armure de base, 1 attaque par round, 4d8 points de dégâts contondants, peut atteindre les créatures comme une arme de niveau d'enchantement +4, immunité aux armes de niveau d'enchantement +2 ou inférieures
-- Élémentaire de feu : 9 en Force, 9 en Dextérité, 2 à la classe d'armure de base, 1 attaque par round, 3d8 points de dégâts contondants plus 1d6 points de dégâts de feu, peut atteindre les créatures comme une arme de niveau d'enchantement +4, 100 % de résistance aux dégâts de feu et de feu magique, immunité aux armes de niveau d'enchantement +2 ou inférieures
-- Troll géant : 18 en Force, 20 en Dextérité, 4 à la classe d'armure de base, 3 attaques par round, 2d6 points de dégâts perforants, peut atteindre les créatures comme une arme de niveau d'enchantement +2, régénère 1 point de vie par seconde, immunité à l'étourdissement, au sommeil, à l'inconscience, à l'immobilisation et à la paralysie
+- Flagelleur mental : 10 en Force, 10 en Dextérité, 5 à la classe d'armure de base, 4 attaques par round, 1d2 points de dégâts contondants, -5 en Intelligence pendant 30 secondes, niveau d'enchantement +2, peut utiliser la capacité Souffle psionique (étourdit les créatures ennemies pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts)
+- Golem de fer : 24 en Force, 9 en Dextérité, 3 à la classe d'armure de base, 1 attaque par round, 4d10 points de dégâts contondants, niveau d'enchantement +4, 100 % de résistance à la magie, 125 % de résistance aux dégâts de feu et de feu magique, 100 % de résistance aux dégâts de froid, de froid magique, électriques et acides, 20 % de résistance aux dégâts tranchants, contondants, perforants et de projectiles, immunité aux attaques sournoises
+- Muloup majeur : 19 en Force, 19 en Dextérité, 2 à la classe d'armure de base, 3 attaques par round, 1d12 points de dégâts tranchants, niveau d'enchantement +1, régénère 8 points de vie par seconde, 50 % de résistance aux dégâts de feu, de feu magique, de froid, de froid magique, électriques et acides, immunité aux armes de niveau d'enchantement +1 ou inférieures
+- Élémentaire de terre : 19 en Force, 9 en Dextérité, 2 à la classe d'armure de base, 1 attaque par round, 4d8 points de dégâts contondants, niveau d'enchantement +4, immunité aux armes de niveau d'enchantement +2 ou inférieures
+- Élémentaire de feu : 9 en Force, 9 en Dextérité, 2 à la classe d'armure de base, 1 attaque par round, 3d8 points de dégâts contondants plus 1d6 points de dégâts de feu, niveau d'enchantement +4, 100 % de résistance aux dégâts de feu et de feu magique, immunité aux armes de niveau d'enchantement +2 ou inférieures
+- Troll géant : 18 en Force, 20 en Dextérité, 4 à la classe d'armure de base, 3 attaques par round, 2d6 points de dégâts perforants, niveau d'enchantement +2, régénère 1 point de vie par seconde, immunité à l'étourdissement, au sommeil, à l'inconscience, à l'immobilisation et à la paralysie
 
 Bien que l'incantation initiale de ce sort dispose d'une composante verbale, les changements de forme qui en résultent ne disposent d'aucune composante verbale et peuvent être jetés même si le lanceur est victime d'un effet de silence.~
 @26363 = ~Ainsi, vous êtes la cause de mes ennuis ! Vous avez trouvé cette... preuve. D'autres personnes sont donc également au courant ? Alors ça n'en restera pas là.~ [TANNER06]
@@ -40677,8 +40677,8 @@ Jet de sauvegarde : aucun
 En jetant ce sort, le lanceur matérialise plusieurs œufs d'araignée qu'il projette en l'air en prononçant une formule magique. Les œufs éclosent au bout de 2 secondes à une portée maximale de 7,5 mètres pour donner vie à des araignées adultes sous le contrôle télépathique du lanceur. Le type d'araignée dépend du niveau d'expérience du lanceur :
 
  Niveau 7-8 : araignée géante disposant de 4 dés de vie (35 points de vie), 14 en Force, 9 en Dextérité, 4 à la classe d'armure, 13 au TAC0, 1 attaque par round et inflige 1d8 points de dégâts perforants, +2 points de dégâts de poison par seconde pendant 37 secondes (jet de sauvegarde contre les poisons pour annuler), immunité à l'empêtrement.
- Niveau 9-11 : araignée éclipsante disposant de 5 dés de vie (44 points de vie), 14 en Force, 9 en Dextérité, 5 à la classe d'armure, 12 au TAC0, 2 attaques par round, peut atteindre les créatures comme une arme de niveau d'enchantement +1 et inflige 1d6 points de dégâts perforants, +2 points de dégâts de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons à -2 pour annuler), immunité à l'empêtrement et à l'enchevêtrement, peut utiliser la capacité Porte dimensionnelle.
- Niveau 12 et plus : araignée-sabre disposant de 5 dés de vie (45 points de vie), 14 en Force, 9 en Dextérité, 3 à la classe d'armure, 15 au TAC0, 4 attaques par round, peut atteindre les créatures comme une arme de niveau d'enchantement +1 et inflige 2d6 points de dégâts perforants, accélérée, immunité à l'empêtrement.
+ Niveau 9-11 : araignée éclipsante disposant de 5 dés de vie (44 points de vie), 14 en Force, 9 en Dextérité, 5 à la classe d'armure, 12 au TAC0, 2 attaques par round, niveau d'enchantement +1 et inflige 1d6 points de dégâts perforants, +2 points de dégâts de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons à -2 pour annuler), immunité à l'empêtrement et à l'enchevêtrement, peut utiliser la capacité Porte dimensionnelle.
+ Niveau 12 et plus : araignée-sabre disposant de 5 dés de vie (45 points de vie), 14 en Force, 9 en Dextérité, 3 à la classe d'armure, 15 au TAC0, 4 attaques par round, niveau d'enchantement +1 et inflige 2d6 points de dégâts perforants, accélérée, immunité à l'empêtrement.
 
 Il y a 80 % de chances d'avoir une seule araignée et 20 % de chances d'en avoir deux. Les créatures convoquées peuvent obéir à des ordres simples. Les effets de ce sort durent 6 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 24 rounds au niveau 18, ou jusqu'à ce que les créatures convoquées soient tuées.
 
@@ -43949,7 +43949,7 @@ Poids : 2~
 PARAMÈTRES :
 
 Capacités de combat :
-- Lorsqu'aucune bille n'est équipée, la fronde tire des billes considérées comme +5 au niveau d'enchantement pour déterminer les créatures qu'elles peuvent atteindre ; les billes reçoivent un bonus de 5 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d4 +2 points de dégâts de projectiles
+- Lorsqu'aucune bille n'est équipée, la fronde tire des billes disposant d'un niveau d'enchantement de +5, d'un bonus de 5 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d4 +2 points de dégâts de projectiles
 
 TAC0 : +5
 Dégâts : +2 (projectile)
@@ -51795,7 +51795,7 @@ Temps d'incantation : 3
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort permet au lanceur de créer des projectiles ayant la forme de petites boules de feu qu'il peut projeter sur une créature. À la fin de l'incantation, le lanceur crée 1 météore par niveau d'expérience du lanceur, jusqu'à un maximum de 20 météores au niveau 20, qui remplacent son arme principale. Les météores disposent d'un facteur de vitesse de 0, peuvent être lancés à une portée maximale de 82 mètres avec un bonus de 5 aux jets d'attaque et peuvent atteindre les créatures comme une arme de niveau d'enchantement +6. Ces projectiles ne disposent d'aucune compétence martiale associée (aucun bonus ni malus aux jets d'attaque et aux jets de dégâts), hormis celles des armes à une main (arme et bouclier et arme à une main). Chaque météore explose à l'impact, infligeant 1d4 +3 points de dégâts de projectiles plus 3 points de dégâts de feu sans jet de sauvegarde à la créature touchée. La résistance à la magie de la créature touchée est ignorée. De plus, le nombre d'attaques par round du lanceur est fixé à 5. Les effets de ce sort durent indéfiniment, jusqu'à ce que les projectiles aient tous été jetés ou jusqu'à ce qu'ils soient dissipés par une source extérieure et ne sont pas cumulables.~
+Ce sort permet au lanceur de créer des projectiles ayant la forme de petites boules de feu qu'il peut projeter sur une créature. À la fin de l'incantation, le lanceur crée 1 météore par niveau d'expérience du lanceur, jusqu'à un maximum de 20 météores au niveau 20, qui remplacent son arme principale. Les météores disposent d'un facteur de vitesse de 0, d'un niveau d'enchantement de +6 et peuvent être lancés à une portée maximale de 82 mètres avec un bonus de 5 aux jets d'attaque. Ces projectiles ne disposent d'aucune compétence martiale associée (aucun bonus ni malus aux jets d'attaque et aux jets de dégâts), hormis celles des armes à une main (arme et bouclier et arme à une main). Chaque météore explose à l'impact, infligeant 1d4 +3 points de dégâts de projectiles plus 3 points de dégâts de feu sans jet de sauvegarde à la créature touchée. La résistance à la magie de la créature touchée est ignorée. De plus, le nombre d'attaques par round du lanceur est fixé à 5. Les effets de ce sort durent indéfiniment, jusqu'à ce que les projectiles aient tous été jetés ou jusqu'à ce qu'ils soient dissipés par une source extérieure et ne sont pas cumulables.~
 @38590 = ~Contagion~
 @38591 = ~Contagion
 (Nécromancie, Invalidant)
@@ -53785,7 +53785,7 @@ Note : évitez d'équiper votre personnage avec des flèches normales, sinon l'
 PARAMÈTRES :
 
 Capacités de combat :
-- Lorsqu'aucune flèche n'est équipée, l'arc tire des flèches fantômes considérées comme +3 au niveau d'enchantement pour déterminer les créatures qu'elles peuvent atteindre ; les flèches fantômes reçoivent un bonus de 3 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d6 points de dégâts de projectiles
+- Lorsqu'aucune flèche n'est équipée, l'arc tire des flèches fantômes disposant d'un niveau d'enchantement de +3, d'un bonus de 3 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d6 points de dégâts de projectiles
 
 TAC0 : +3
 Facteur de vitesse : 3
@@ -53851,7 +53851,7 @@ Poids : 0~
 PARAMÈTRES :
 
 Capacités de combat :
-- Lorsqu'aucune bille n'est équipée, la fronde tire des billes considérées comme +1 au niveau d'enchantement pour déterminer les créatures qu'elles peuvent atteindre ; les billes reçoivent un bonus de 2 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d4 +2 points de dégâts de projectiles
+- Lorsqu'aucune bille n'est équipée, la fronde tire des billes disposant d'un niveau d'enchantement de +1, d'un bonus de 2 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d4 +2 points de dégâts de projectiles
 
 TAC0 : +2
 Dégâts : +2 (projectile)
@@ -62382,7 +62382,7 @@ CAPACITÉS :
  Niveau 9-14 : 1d12.
  Niveau 15 et plus : 1d20.
 
-- Au niveau 9, les poings du moine sont considérés comme une arme de niveau d'enchantement +1 et bénéficient donc d'un bonus de 1 à leurs jets d'attaque et de dégâts. Ce bonus évolue pour atteindre 2 au niveau 12, 3 au niveau 15 et 4 au niveau 25.
+- Au niveau 9, les poings du moine sont considérés comme une arme de niveau d'enchantement +1 et bénéficient d'un bonus de 1 à leurs jets d'attaque et de dégâts. Ce bonus évolue pour atteindre 2 au niveau 12, 3 au niveau 15 et 4 au niveau 25.
 - Bonus de 2 aux jets de sauvegarde contre les sorts.
 - Bonus de 1 à la classe d'armure contre les projectiles tous les 3 niveaux d'expérience.
 - La classe d'armure de base d'un moine est de 9 au niveau 1, et diminue ensuite de 1 tous les 2 niveaux d'expérience.
@@ -79428,7 +79428,7 @@ Capacités d'équipement :
 - Résistance à l'électricité : +20 %
 
 Capacités de combat :
-- Lorsqu'aucune flèche n'est équipée, l'arc tire des flèches d'éclair considérées comme +4 au niveau d'enchantement pour déterminer les créatures qu'elles peuvent atteindre ; les flèches d'éclair reçoivent un bonus de 4 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 2 points de dégâts perforants et 1d8 points de dégâts électriques
+- Lorsqu'aucune flèche n'est équipée, l'arc tire des flèches d'éclair disposant d'un niveau d'enchantement de +4, d'un bonus de 4 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 2 points de dégâts perforants plus 1d8 points de dégâts électriques
 
 TAC0 : +4
 Dégâts : +2 (perforant), +1d8 (électrique)
@@ -86703,7 +86703,7 @@ Poids : 1~
 PARAMÈTRES :
 
 Capacités de combat :
-- Lorsqu'aucun carreau n'est équipé, l'arbalète tire des carreaux de feu considérés comme +4 au niveau d'enchantement pour déterminer les créatures qu'ils peuvent atteindre ; les carreaux de feu reçoivent un bonus de 6 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d8 +4 points de dégâts de projectiles et 2 points de dégâts de feu
+- Lorsqu'aucun carreau n'est équipé, l'arbalète tire des carreaux de feu disposant d'un niveau d'enchantement de +4, d'un bonus de 6 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d8 +4 points de dégâts de projectiles plus 2 points de dégâts de feu
 
 TAC0 : +6 (+4 de l'arbalète, +2 des carreaux de feu)
 Dégâts : 1d8 +4 (projectile), +2 (feu)
@@ -86721,7 +86721,7 @@ La Corde de Gond rend cette redoutable arbalète légère magique encore plus pr
 PARAMÈTRES :
 
 Capacités de combat :
-- Lorsqu'aucun carreau n'est équipé, l'arbalète tire des carreaux de feu considérés comme +5 au niveau d'enchantement pour déterminer les créatures qu'ils peuvent atteindre ; les carreaux de feu reçoivent un bonus de 7 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d8 +5 points de dégâts de projectiles et 2 points de dégâts de feu
+- Lorsqu'aucun carreau n'est équipé, l'arbalète tire des carreaux de feu disposant d'un niveau d'enchantement de +5, d'un bonus de 7 aux jets d'attaque, incluant le bonus ci-dessous, et infligent 1d8 +5 points de dégâts de projectiles plus 2 points de dégâts de feu
 
 TAC0 : +7 (+5 de l'arbalète, +2 des carreaux de feu)
 Dégâts : 1d8 +5 (projectile), +2 (feu)
@@ -126136,7 +126136,7 @@ Dextérité : 10
 
 Classe d'armure de base : 5
 Attaques par round : 4
-Dégâts : 1d2 (contondant), peut atteindre les créatures comme une arme de niveau d'enchantement +2
+Dégâts : 1d2 (contondant), niveau d'enchantement +2
 
 Capacités de combat :
 - Dévorer le cerveau (la cible subit -5 en Intelligence pendant 30 secondes)
@@ -126159,7 +126159,7 @@ Dextérité : 9
 
 Classe d'armure de base : 3
 Attaques par round : 1
-Dégâts : 4d10 (contondant), peut atteindre les créatures comme une arme de niveau d'enchantement +4
+Dégâts : 4d10 (contondant), niveau d'enchantement +4
 
 Capacités spéciales :
 - Résistance à la magie : 100 %
@@ -126190,7 +126190,7 @@ Dextérité : 20
 
 Classe d'armure de base : 4
 Attaques par round : 3
-Dégâts : 2d6 (perforant), peut atteindre les créatures comme une arme de niveau d'enchantement +2
+Dégâts : 2d6 (perforant), niveau d'enchantement +2
 
 Capacités spéciales :
 - Immunité à l'étourdissement, au sommeil, à l'inconscience, à l'immobilisation et à la paralysie
@@ -126211,7 +126211,7 @@ Dextérité : 19
 
 Classe d'armure de base : 2
 Attaques par round : 3
-Dégâts : 1d12 (tranchant), peut atteindre les créatures comme une arme de niveau d'enchantement +1
+Dégâts : 1d12 (tranchant), niveau d'enchantement +1
 
 Capacités spéciales :
 - Résistance au feu : 50 %
@@ -126238,7 +126238,7 @@ Dextérité : 9
 
 Classe d'armure de base : 2
 Attaques par round : 1
-Dégâts : 3d8 (contondant), +1d6 (feu), peut atteindre les créatures comme une arme de niveau d'enchantement +4
+Dégâts : 3d8 (contondant), +1d6 (feu), niveau d'enchantement +4
 
 Capacités spéciales :
 - Résistance au feu : 100 %
@@ -126260,7 +126260,7 @@ Dextérité : 9
 
 Classe d'armure de base : 2
 Attaques par round : 1
-Dégâts : 4d8 (contondant), peut atteindre les créatures comme une arme de niveau d'enchantement +4
+Dégâts : 4d8 (contondant), niveau d'enchantement +4
 
 Capacités spéciales :
 - Immunité aux armes de niveau d'enchantement +2 ou inférieures
